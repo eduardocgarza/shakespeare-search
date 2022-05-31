@@ -1,6 +1,6 @@
 # Shakespeare Search
 
-![image](docs/home.png)
+![Search line](screenshots/search-line.png)
 
 ___
 
@@ -19,7 +19,11 @@ A web app search engine for all of Shakespeare's plays, poems and sonnets. Find 
 4. **Highlight all matching results**, so you know exactly where that keyword appeared 
 5. **Full list of plays**, in case you don't want to search and just want to read some Shakespeare
 
+![Advanced search](screenshots/advanced-search.png)
+
 ### Plays
+
+![View plays](screenshots/view-all-plays.png)
 
 | | Title |  
 | - | - |
@@ -66,6 +70,8 @@ A web app search engine for all of Shakespeare's plays, poems and sonnets. Find 
 | 42 | [The Winter’s Tale ](https://shakesearch.com/play/10041) | 
 | 43 | [Twelfth Night; Or, What You Will ](https://shakesearch.com/play/10042) | 
 | 44 | [Venus And Adonis ](https://shakesearch.com/play/10043) |
+
+![Read play](screenshots/read-play.png)
 
 ___
 
